@@ -1,8 +1,8 @@
-# Table of Contents
+# X-Road REST Standards and Guidelines
 
 ## Introduction
 
-The purpose of this document is to describe the best practices of integrating REST services between organizations using X-Road. 
+The purpose of these documents is to describe the best practices of integrating REST services between organizations using X-Road. 
 
 This documentation consists of two main documents. The standards document describes the technical means and method to implement a REST API. The guideline document describes how to successfully design a REST API.
 

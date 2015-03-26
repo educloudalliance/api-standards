@@ -1,4 +1,4 @@
-# White House Web API Standards
+# X-Road REST API Standards [draft]
 
 * [Guidelines](#guidelines)
 * [Pragmatic REST](#pragmatic-rest)

@@ -8,7 +8,10 @@ This documentation consists of two main documents. The standards document descri
 
 This documentation is intended for architects and programmers, who will use REST as an integration method, and utilize X-Road as a distributed data exchange layer.
 
+## How to Contribute?
+
+Pull requests should be used for commiting contributions. Karri Niemelä is the maintainer of this repository.
+
 * [X-Road REST API Standards](APIStandards.md)
 * [API Design Guidelines](APIDesignGuidelines.md)
-* How to Contribute?
 * Licensing

@@ -12,6 +12,11 @@ This documentation is intended for architects and programmers, who will use REST
 
 Pull requests should be used for commiting contributions. Karri Niemelä is the maintainer of this repository.
 
+## Documentation
+
 * [X-Road REST API Standards](APIStandards.md)
 * [API Design Guidelines](APIDesignGuidelines.md)
-* Licensing
+
+## Licensing
+
+Coming soon...
